@@ -1,6 +1,6 @@
 ***Please note that this version of the St. Claire License is not stable, has not undergone formal legal review, and should not be used to license projects in its current form***
 
-ST. CLAIRE LICENSE, VERSION 0.1
+ST. CLAIRE LICENSE, VERSION 0.2
 
 Copyright <YEAR> <COPYRIGHT HOLDER>
 
@@ -36,31 +36,19 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
         ii. Determine an insurance premium or deny insurance applications or claims; 
 
-        iii. Predict the likelihood that any person request to file an insurance claim based on determining a lifestyle of a person, medical-test reports, demographic details of a person and/or online activity of a person;
+        iii. Deny an insurance claim based on any predicted likelihood of the possibility of insurance fraud; and
 
-        iv. Determine an insurance premium or deny insurance applications or claims based on data determining a lifestyle of a person, medical-test reports,  demographic details of a person, and/or online activity of a person;
-
-        v. Deny an insurance claim based on any predicted likelihood of the possibility of insurance fraud; and
-
-        vi. Diagnose a medical condition without human oversight.    
+        iv. Diagnose a medical condition without human oversight.    
 
     4. Criminal
 
-        i. Predict the likelihood that a crime will be committed by any person;
+        i. Predict the likelihood that a crime will be, or has been, committed by any person;
 
         ii. Predict the likelihood, of any person, being a criminal or having committed a  crime;
 
-        iii. Predict the likelihood, of any person, being a criminal, based on the person’s physical attributes or another person’s physical attributes;
+        iii. Predict the likelihood of a crime being committed, or having been committed, by any person, based on evidence collected, physical analysis, or other such features; and   
 
-        iv. Predict the likelihood, of any person, having committed a crime, based on the person’s physical attributes or another person’s physical attributes;  
-
-        v. Predict  the likelihood that a crime will be committed by any person, based on the person’s physical attributes or another person’s physical attributes;
-
-        vi. Predict a likelihood of a crime being committed by any person, based on evidence collected, physical analysis, or other such features;    
-
-        vii. Use personal data and/or personal characteristics or features such as: name,  family name, address, gender, sexual orientation, race, religion, age,  location (at any geographical level), skin color, society or political affiliations, employment status and/or history, health and medical conditions (including physical, mental), family history, social media and publicly available data, image or video analysis of an individual or a group(s) of individuals, heart-rate, perspiration, breathing, and brain imaging and other metabolic data to predict the likelihood a person will engage in criminal behavior; and
-
-        viii. Predict the likelihood of a person being a criminal based on the person or other User’s physical attributes.
+        iv. Use personal data and/or personal characteristics or features such as: name,  family name, address, gender, sexual orientation, race, religion, age,  location (at any geographical level), skin color, society or political affiliations, employment status and/or history, health and medical conditions (including physical, mental), family history, social media and publicly available data, image or video analysis of an individual or a group(s) of individuals, heart-rate, perspiration, breathing, and brain imaging and other metabolic data to predict the likelihood a person will engage, or has engaged, in criminal behavior. 
 
 2) Copyright Retainment, Reproduction, and Notice of Use 
 
