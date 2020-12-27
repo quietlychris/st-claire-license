@@ -16,6 +16,12 @@ The St. Claire License aims to provide developers with a legally-enforceable ave
 
 Alternatively, you may want to try using the Extended St. Claire License Template to write your own license. Should you decide to do so, it's likely you may want the final license text to be formally reviewed by a legal counsel.
 
+### Q: What are the St. Claire License's ethical terms?
+
+**Short:** The license contains clauses limiting use in certain applications related surveillance, computer-generated media, healthcare, criminal procedure, and military/paramilitary use. 
+
+**Long:** You should read `Section 1) Ethical Clauses` in the license. The language should be fairly approachable even to a layperson. 
+
 ### Q: Is the St. Claire License open source?
 
 **Short:** No. The St. Claire License does not meet the OSI's definition for Open Source, due to "discrimination against fields of endeavor", which is the main feature of the St. Claire License in the form of the ethical clauses.

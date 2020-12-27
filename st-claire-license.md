@@ -1,6 +1,6 @@
 ***Please note that this version of the St. Claire License is not stable, has not undergone formal legal review, and should not be used to license projects in its current form***
 
-ST. CLAIRE LICENSE, VERSION 0.2
+ST. CLAIRE LICENSE, VERSION 0.3
 
 Copyright <YEAR> <COPYRIGHT HOLDER>
 
@@ -49,6 +49,10 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
         iii. Predict the likelihood of a crime being committed, or having been committed, by any person, based on evidence collected, physical analysis, or other such features; and   
 
         iv. Use personal data and/or personal characteristics or features such as: name,  family name, address, gender, sexual orientation, race, religion, age,  location (at any geographical level), skin color, society or political affiliations, employment status and/or history, health and medical conditions (including physical, mental), family history, social media and publicly available data, image or video analysis of an individual or a group(s) of individuals, heart-rate, perspiration, breathing, and brain imaging and other metabolic data to predict the likelihood a person will engage, or has engaged, in criminal behavior. 
+
+    5. Military and Paramilitary Use
+
+        i. Operate in a military or paramilitary context in a manner that enables or improves the application of lethal or non-lethal force against human beings. 
 
 2) Copyright Retainment, Reproduction, and Notice of Use 
 
